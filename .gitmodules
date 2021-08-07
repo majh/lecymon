@@ -13,3 +13,6 @@
 [submodule "module/cxxopts"]
 	path = module/cxxopts
 	url = https://github.com/jarro2783/cxxopts.git
+[submodule "module/protobuf"]
+	path = module/protobuf
+	url = https://github.com/protocolbuffers/protobuf.git
